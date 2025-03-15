@@ -1,1 +1,1 @@
-This is are my changes for git fetch and git pull
+This is the changes for added from remote
