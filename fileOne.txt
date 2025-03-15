@@ -1,1 +1,1 @@
-Reset demo 1
+Git reset demo 2 file One
